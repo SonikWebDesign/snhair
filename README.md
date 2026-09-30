@@ -2,7 +2,7 @@
 
 Попълни реалните контакти в contact.js преди публикуване. Без тях запитването може да се подготви и копира, но няма свързан получател.
 
-Отделни страници: index.html, products.html, before-after.html, how-to-order.html, care.html, faq.html.
+Отделни страници: index.html, products.html, before-after.html, how-to-order.html, care.html, faq.html, store.html.
 
 Всички файлове са на едно ниво. Няма подпапки и не е необходим Node.js или build.
 
@@ -12,7 +12,7 @@
 - style.css — всички стилове
 - contact.js — имейл, телефон/Viber и Instagram
 - main.js — интерактивност, продукти, цветове и слайдшоу
-- PNG, SVG, WebP, JPG и TTF — снимки, лога и шрифтове
+- PNG, SVG, WebP, JPG, MP4 и TTF — снимки, лога и шрифтове
 
 Всички локални ресурси се зареждат с относителни адреси, затова сайтът работи и под адрес username.github.io/repository/.
 
